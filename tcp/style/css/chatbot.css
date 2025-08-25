@@ -1,0 +1,287 @@
+.contact-form-page {
+	height: 0px;
+	width: 0px;
+	display: block;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 42px;
+	right: 42px;
+	overflow: hidden;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.show-profile {
+	height: 100%;
+	display: block;
+	width: 25%;
+	bottom: 0;
+	right: 0;
+	position: fixed;
+	border-radius: 0;
+	z-index: 11;
+}
+
+.minimize-profile {
+	height: 30px;
+	display: block;
+	width: 25%;
+	bottom: 0;
+	right: 0;
+	position: fixed;
+	border-radius: 0;
+}
+
+.form-profile-img {
+	float: left;
+}
+
+.form-profile-img img {
+	border-radius: 50%;
+	margin: 20px 0 0 14px;
+}
+
+.contact-form-page h1 {
+	font-size: 18px;
+	color: #fff;
+	margin: 20px 26px;
+	padding: 0px;
+	line-height: 29px;
+	padding-right: 30px;
+}
+
+.bg-chat-bot {
+	background: #3e2567;
+}
+
+.top-btn:hover {
+	color: #fff;
+}
+
+.header-btn, .footer-btn a {
+	font-size: 20px;
+	color: #fff;
+	float: right;
+}
+
+.form-head {
+	display: block;
+}
+
+.cancel-btn-img {
+	position: relative;
+}
+
+.footer-btn {
+	position: relative;
+}
+
+.buttom-btn {
+	position: fixed;
+	bottom: 45px;
+	right: 30px;
+	background: #fff;
+	color: #fff;
+	border: 3px solid #e02779;
+	text-align: center;
+	width: 73px;
+	z-index: 10;
+	height: 70px;
+	border-radius: 50%;
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	opacity: 1;
+}
+
+.chatbot-icon {
+	padding: 3px 0px 0px 10px;
+}
+
+.buttom-btn i {
+	font-size: 25px;
+}
+
+.buttom-btn:hover {
+	background: #fff;
+	color: #fff
+}
+
+.contact-form-page input.form-control {
+	height: 40px;
+	border-radius: 0;
+	outline: none;
+}
+
+.contact-form-page  textarea.form-control {
+	height: 150px;
+	border-radius: 0;
+}
+
+.contact-form-page form {
+	padding: 0 26px;
+}
+
+.contact-form-page .submit-buttom {
+	padding: 10px 40px;
+	text-align: center;
+	display: block;
+	border-radius: 0;
+	background: #007BB5;
+	border: none;
+	border-bottom: 5px solid #005B85;
+	text-shadow: none;
+	box-shadow: none;
+	font-size: 16px;
+	color: #ffffff;
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.contact-form-page .form-group label {
+	font-size: 14px;
+	color: #fff;
+}
+
+.top-btn-show {
+	opacity: 1 !important;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.buttom-btn-hide {
+	opacity: 0 !important;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	display:none;
+}
+
+.github-source {
+	display: inline-block;
+	color: #000;
+	margin: 20px;
+	position: relative;
+	z-index: 999999;
+}
+
+.github-source i {
+	font-size: 50px;
+	color: #fff
+}
+
+.chatinput {
+	width: 45%;
+}
+
+#chatlist {
+	height: 69vh;
+}
+.cursor-pointer{
+	cursor:pointer;
+}
+@media ( max-width : 768px) {
+	.show-profile {
+		width: 50%;
+	}
+}
+
+
+
+.ask-vahie
+{
+	background: #fff;
+	border-radius: 5px;
+  top: 0;
+  left: 0;
+  padding: 0px 1px;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  z-index: -1;
+  pointer-events: none;
+	
+}
+/* animation */
+ .ask-vahie {
+  animation: ask-vahie 5s linear infinite;
+}
+
+
+@keyframes ask-vahie {
+  from {
+    opacity: 1;
+  }
+  to {
+    transform: scale(5);
+   
+    opacity: 0.4;
+  }
+} 
+/* 
+.img-rotate{
+	transform: rotate(0deg);
+}
+
+ .img-rotate {
+  animation: img-rotate 5s linear infinite;
+}
+
+@keyframes img-rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+   transform: rotate(20deg);
+   
+  }
+}  */
+.contact-form-page.show-profile 
+{   border-radius: 20px;
+    height: 96vh;
+    -webkit-box-shadow: -1px 0px 17px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 0px 17px 0px rgba(0,0,0,0.75);
+    box-shadow: -1px 0px 17px 0px rgba(0,0,0,0.75);
+    width: 24%;
+    margin-right: 1vw;
+    margin-bottom: 1vw;
+}
+
+.close-ask-vahei{
+	position: fixed;
+    right: 25px;
+    bottom: 95px;
+}
+.close-ask-vahei i{
+	font-size: 18px !important;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+   .ask-vahie {
+  		animation: unset;
+  		opacity: 1;
+	}
+}
+/* responsive chatbot css */
+@media (max-width: 768px){
+	.contact-form-page.show-profile{
+		width: 100%;
+		z-index: 20;
+	}
+
+	}
+/* responsive chatbot css */
+
+.buttom-btn:hover
+{
+	
+}

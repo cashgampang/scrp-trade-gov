@@ -1,0 +1,496 @@
+Uri: https://content.trade.gov.in/Country_images/poster_country_img/ae_pc.webp
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Country_images\poster_country_img\ae_pc.webp
+Content Type: image/webp
+
+Uri: https://content.trade.gov.in/Country_images/poster_country_img/au_pc.webp
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Country_images\poster_country_img\au_pc.webp
+Content Type: image/webp
+
+Uri: https://content.trade.gov.in/Country_images/poster_country_img/cn_pc.webp
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Country_images\poster_country_img\cn_pc.webp
+Content Type: image/webp
+
+Uri: https://content.trade.gov.in/Country_images/poster_country_img/us_pc.webp
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Country_images\poster_country_img\us_pc.webp
+Content Type: image/webp
+
+Uri: https://content.trade.gov.in/Services_Icon/Discover_ECommerce_platforms.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Services_Icon\Discover_ECommerce_platforms.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/Services_Icon/Explore_Free_Trade_Agreements.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Services_Icon\Explore_Free_Trade_Agreements.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/Services_Icon/Find_Insights_on_your_Product.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Services_Icon\Find_Insights_on_your_Product.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/Services_Icon/Get_Certificate_of_Origin.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Services_Icon\Get_Certificate_of_Origin.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/Services_Icon/Learn_on_Trade_Academy.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Services_Icon\Learn_on_Trade_Academy.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/Services_Icon/Raise_Trade_Queries.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Services_Icon\Raise_Trade_Queries.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/Services_Icon/Source_from_India.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Services_Icon\Source_from_India.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/Services_Icon/Trade_Events_Worldwide.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Services_Icon\Trade_Events_Worldwide.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/social-icon/iconFacebook.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\social-icon\iconFacebook.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/social-icon/iconInstagram.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\social-icon\iconInstagram.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/social-icon/iconLinkedIn.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\social-icon\iconLinkedIn.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/social-icon/iconWhatsapp.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\social-icon\iconWhatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/social-icon/iconX.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\social-icon\iconX.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/social-icon/iconYoutube.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\social-icon\iconYoutube.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/tcp/assets/js/jquery.smartmenus.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\assets\js\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/bootstrap/plugins/jQueryUI/jquery-ui.min-1.12.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\bootstrap\plugins\jQueryUI\jquery-ui.min-1.12.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/bootstrap/plugins/jQueryUI/jquery-ui.min.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\bootstrap\plugins\jQueryUI\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/images/Homepage Banner.webp
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\Homepage Banner.webp
+Content Type: image/webp
+
+Uri: https://content.trade.gov.in/tcp/images/HomePage/ProgressBar.gif
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\HomePage\ProgressBar.gif
+Content Type: image/gif
+
+Uri: https://content.trade.gov.in/tcp/images/img/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\img\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/tcp/images/img/facingtrouble.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\img\facingtrouble.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/tcp/images/img/favicon.ico
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://content.trade.gov.in/tcp/images/TCP/Accessbility.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\TCP\Accessbility.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/tcp/images/TCP/Connect.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\TCP\Connect.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/tcp/images/TCP/Emblem.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\TCP\Emblem.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/tcp/images/TCP/in-flag.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\TCP\in-flag.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/tcp/images/TCP/loginReg/reg-icon/username.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\TCP\loginReg\reg-icon\username.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/tcp/images/TCP/loginReg/regworldmap.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\TCP\loginReg\regworldmap.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/tcp/images/TCP/Services_Icon/Search_Icon.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\images\TCP\Services_Icon\Search_Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://content.trade.gov.in/tcp/script/aes/aes.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\aes\aes.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/aes/AesUtil.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\aes\AesUtil.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/aes/pbkdf2.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\aes\pbkdf2.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/bootbox.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\bootbox.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/bootstrap-datepicker.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\bootstrap-datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/bootstrap.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/buttons.html5.min.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\buttons.html5.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/buttons.print.min.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\buttons.print.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/chosen.jquery.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\chosen.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/dataTables.bootstrap4.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\dataTables.bootstrap4.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/dataTables.buttons.min.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\dataTables.buttons.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/dataTables.responsive.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\dataTables.responsive.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/jquery.dataTables.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/jquery.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/jquery.scrollbar.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\jquery.scrollbar.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/jszip.min.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\jszip.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/motamoScript.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\motamoScript.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/multislider.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\multislider.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/popper.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\popper.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/preLoginFunction.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\preLoginFunction.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/registrationAndLogin.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\registrationAndLogin.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/responsive.bootstrap4.min.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\responsive.bootstrap4.min.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/tcpSmartSearch.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\tcpSmartSearch.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/cas/homepage/vfs_fonts.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\cas\homepage\vfs_fonts.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/common/commonValidation.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\common\commonValidation.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/common/customSocialScript.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\common\customSocialScript.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/common/map/script.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\common\map\script.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/common/map/style.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\common\map\style.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/script/common/previewAttachment.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\common\previewAttachment.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/common/sessionExpiryAlert.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\common\sessionExpiryAlert.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/content.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\content.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/dgft/commonfunctions.js?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\dgft\commonfunctions.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/dgft/iec/viewIecModule.js?v=556>
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\dgft\iec\viewIecModule.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/googleCharts/loader.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\googleCharts\loader.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/script/tcp/common/customAccessibility.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\script\tcp\common\customAccessibility.js
+Content Type: application/javascript
+
+Uri: https://content.trade.gov.in/tcp/style/css/bootstrap-datepicker.min.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\bootstrap-datepicker.min.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/bootstrap.min.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/buttons.dataTables.min.css
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\buttons.dataTables.min.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/chatbot.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\chatbot.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/chosen.min.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\chosen.min.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/dataTables.bootstrap4.min.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\dataTables.bootstrap4.min.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/dgftNavbar.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\dgftNavbar.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/eCommerce.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\eCommerce.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/itchsStyle.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\itchsStyle.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/jquery.scrollbar.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\jquery.scrollbar.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/responsive.bootstrap4.min.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\responsive.bootstrap4.min.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/responsive.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\responsive.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/Tcpcommon/customAccesibility.css
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\Tcpcommon\customAccesibility.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/Tcpcommon/Tcpcommon.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\Tcpcommon\Tcpcommon.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/Tcpcommon/TcpMobile.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\Tcpcommon\TcpMobile.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/TcpMain.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\TcpMain.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/css/tradeEvent.css?v=61.277
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\css\tradeEvent.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/tcp/style/statusbar.css
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\tcp\style\statusbar.css
+Content Type: text/css
+
+Uri: https://content.trade.gov.in/TCP_MiniSlider/bharatkoshlogo.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\TCP_MiniSlider\bharatkoshlogo.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/TCP_MiniSlider/c-dac.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\TCP_MiniSlider\c-dac.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/TCP_MiniSlider/cbic.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\TCP_MiniSlider\cbic.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/TCP_MiniSlider/exim-bank.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\TCP_MiniSlider\exim-bank.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/TCP_MiniSlider/icegate.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\TCP_MiniSlider\icegate.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/TCP_MiniSlider/mca.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\TCP_MiniSlider\mca.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/TCP_MiniSlider/msme.png
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\TCP_MiniSlider\msme.png
+Content Type: image/png
+
+Uri: https://content.trade.gov.in/Website/1.webp
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Website\1.webp
+Content Type: image/webp
+
+Uri: https://content.trade.gov.in/Website/4.webp
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Website\4.webp
+Content Type: image/webp
+
+Uri: https://content.trade.gov.in/Website/ibef/India-UK-Tariffs.webp
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Website\ibef\India-UK-Tariffs.webp
+Content Type: image/webp
+
+Uri: https://content.trade.gov.in/Website/TCPWebsiteSecurityAuditLatest.pdf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\Website\TCPWebsiteSecurityAuditLatest.pdf
+Content Type: application/pdf
+
+Uri: https://fonts.cdnfonts.com/css/open-dyslexic
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\css (1)\open-dyslexic
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/29616/open-dyslexic.woff
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\29616\open-dyslexic.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Arimo:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/arimo/v34/P5sdzZCDf9_T_10c3i9MeUcyat4iJY-ERCrDfQM.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\arimo\v34\P5sdzZCDf9_T_10c3i9MeUcyat4iJY-ERCrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v34/P5sdzZCDf9_T_10c3i9MeUcyat4iJY9aQyrDfQM.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\arimo\v34\P5sdzZCDf9_T_10c3i9MeUcyat4iJY9aQyrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v34/P5sdzZCDf9_T_10c3i9MeUcyat4iJY9jQyrDfQM.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\arimo\v34\P5sdzZCDf9_T_10c3i9MeUcyat4iJY9jQyrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v34/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\arimo\v34\P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v34/P5sfzZCDf9_T_3cV7NCUECyoxNk3CstcABrE.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\arimo\v34\P5sfzZCDf9_T_3cV7NCUECyoxNk3CstcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v34/P5sfzZCDf9_T_3cV7NCUECyoxNk3M8tcABrE.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\arimo\v34\P5sfzZCDf9_T_3cV7NCUECyoxNk3M8tcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://translation-plugin.bhashini.co.in/v2/website_translation_utility.js
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\v2\website_translation_utility.js
+Content Type: application/javascript
+
+Uri: https://www.trade.gov.in/pages/home
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\pages\home.htm
+Content Type: text/html
+
+Uri: https://www.trade.gov.in/pages/images/TCP/Services_Icon/Learn_on_Trade_Academy.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\pages\images\TCP\Services_Icon\Learn_on_Trade_Academy.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ux4g.gov.in/assets/img/logo/ux4g-logo.svg
+File Name: C:\Downloaded Web Sites\www.trade.gov.in\www.trade.gov.in\assets\img\logo\ux4g-logo.svg
+Content Type: image/svg+xml
+
